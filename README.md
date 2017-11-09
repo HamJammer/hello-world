@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Just another repository.
+Following instructions given by tutorial.
+Suck it B.
